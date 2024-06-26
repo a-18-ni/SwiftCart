@@ -1,0 +1,1 @@
+This project is an e-commerce platform developed using React.js and integrates with a backend API hosted at BASE_URL. It provides users with a seamless shopping experience, featuring authentication functionalities and various views for browsing categories, exploring products, managing cart and wishlist, and updating user profile settings.
